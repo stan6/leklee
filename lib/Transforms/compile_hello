@@ -1,0 +1,1 @@
+llvm-gcc -I /home/shin/klee/klee/include/ -emit-llvm -c hello.c -o hello.bc

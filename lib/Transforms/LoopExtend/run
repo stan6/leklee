@@ -1,0 +1,1 @@
+../../../Release+Asserts/bin/opt -load ../../../Release+Asserts/lib/LoopExtended.so -loop-extend < ../hello.bc > instrumented.bc
